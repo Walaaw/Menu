@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: #F1F5F8;
+}
+.right{
+  border: 5px solid #C59D5F;
+  height: 200px;
+  border-radius: 5px;
+}
+.title{
+  border-bottom: 1px dotted;
+}
+.title p{
+  color: #C59D5F;
+  font-weight: bold;
+}
+.nav button{
+  color: #C59D5F;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: all 0.5s;
+ 
+}
+.nav button:hover{
+  background-color: #C59D5F;
+  color: white;
+}
