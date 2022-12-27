@@ -1,23 +1,35 @@
 {
   "files": {
     "main.css": "/Menu/static/css/main.24996cc1.css",
-    "main.js": "/Menu/static/js/main.2b21da17.js",
+    "main.js": "/Menu/static/js/main.86e57186.js",
     "static/js/787.6b503308.chunk.js": "/Menu/static/js/787.6b503308.chunk.js",
     "static/media/fa-solid-900.ttf": "/Menu/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/Menu/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/Menu/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
     "static/media/fa-brands-400.woff2": "/Menu/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/item-7.jpeg": "/Menu/static/media/item-7.2b2d85320c08729e6a58.jpeg",
+    "static/media/item-2.jpeg": "/Menu/static/media/item-2.f0b6b25efcbd39c641cb.jpeg",
+    "static/media/item-8.jpeg": "/Menu/static/media/item-8.77daac2abe411b747cb4.jpeg",
+    "static/media/item-10.jpeg": "/Menu/static/media/item-10.1132c139a0a94008a325.jpeg",
+    "static/media/item-4.jpeg": "/Menu/static/media/item-4.1246e0c14d2695db1ae5.jpeg",
+    "static/media/item-1.jpg": "/Menu/static/media/item-1.59f884831772e6397275.jpg",
+    "static/media/item-6.jpeg": "/Menu/static/media/item-6.71751fefb2ee55699e44.jpeg",
     "static/media/fa-regular-400.ttf": "/Menu/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/item-3.jpeg": "/Menu/static/media/item-3.41dbf97f88e1e73a7474.jpeg",
+    "static/media/item-5.jpeg": "/Menu/static/media/item-5.39ce038c4ceb093d7c66.jpeg",
+    "static/media/item-9.jpeg": "/Menu/static/media/item-9.46d925888a7d2fa971d6.jpeg",
     "static/media/fa-regular-400.woff2": "/Menu/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/surreal-image-african-elephant-wearing-260nw-1365289022.webp": "/Menu/static/media/surreal-image-african-elephant-wearing-260nw-1365289022.19b1daaffc9a853d00df.webp",
     "static/media/fa-v4compatibility.ttf": "/Menu/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/Menu/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/logo.svg": "/Menu/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/Menu/index.html",
     "main.24996cc1.css.map": "/Menu/static/css/main.24996cc1.css.map",
-    "main.2b21da17.js.map": "/Menu/static/js/main.2b21da17.js.map",
+    "main.86e57186.js.map": "/Menu/static/js/main.86e57186.js.map",
     "787.6b503308.chunk.js.map": "/Menu/static/js/787.6b503308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24996cc1.css",
-    "static/js/main.2b21da17.js"
+    "static/js/main.86e57186.js"
   ]
 }
