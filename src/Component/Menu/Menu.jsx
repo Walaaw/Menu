@@ -1,16 +1,16 @@
-import React from 'react'
-
+import React from 'react';
 export default function Menu({menu}) {
   return (
     <>
      {menu.map((item)=>{
-        const {id ,title,category,price,img ,desc}=item;
-        return <div className="col-md-6">
+        const {id ,title,price,img ,desc}=item;
+        console.log(img);
+        return <div key={id} className="col-md-6">
         <div className="item">
             <div className="row">
                 <div className="col-md-5">
-                  <div className='right my-4  '>
-                  <img src={img} alt="meal" className='w-100 h-100' />
+                  <div className='right my-4'>
+                  <img src={require(`../../${img}`)} alt="meal" className='w-100 h-100' />
                   </div>
                 </div>
                 <div className="col-md-7">
